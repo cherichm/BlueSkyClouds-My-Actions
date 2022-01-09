@@ -1,7 +1,7 @@
 // version v0.0.1
 // create by BlueSkyClouds
 // detail url: https://github.com/BlueskyClouds/My-Actions
-
+TELECOM_MOBILE='17353753207'
 const exec = require('child_process').execSync
 const fs = require('fs')
 const download = require('download')
