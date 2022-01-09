@@ -54,7 +54,7 @@ let QYWX_KEY = '';
 - 文本消息: 1 (数字一)
 - 图文消息（mpnews）: 素材库图片id, 可查看此教程(http://note.youdao.com/s/HMiudGkb)或者(https://note.youdao.com/ynoteshare1/index.html?id=1a0c8aff284ad28cbd011b29b3ad0191&type=note)
 */
-let QYWX_AM = '';
+let QYWX_AM = 'wwb1c701f6cb9f9dc2,LX6vTOEvzJI8pFOlbnTmZ86HQJvNu8A6zVkT6Qu_hB0,@all,1000003,2ofZf7FcJqIK_vHGprB4EfKoETQJKtFQhCgQ6KeFe2d51AFoVn5Kd6w9KH7A3Lw70';
 
 // =======================================iGot聚合推送通知设置区域===========================================
 //此处填您iGot的信息(推送key，例如：https://push.hellyw.com/XXXXXXXX)
